@@ -1,5 +1,5 @@
 //weather app
-const apikey="40dd99db587d8390862e3f55df8150e1"
+const apikey="40dd99db587d8390862e3f55df8150e1"//edukanda njn api disable cheyum
 
 document.addEventListener('DOMContentLoaded', () => {
     const weatherform = document.querySelector(".weatherform");
